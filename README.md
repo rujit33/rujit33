@@ -68,13 +68,15 @@
 
 ## 📊 GitHub Analytics
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rujit33&show_icons=true&theme=radical&count_private=true&hide_border=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rujit33&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rujit33&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rujit33&show_icons=true&theme=radical&count_private=true&hide_border=true&v=2" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rujit33&layout=compact&theme=radical&hide_border=true&v=2" alt="Top Languages" />
+</p>
+
+<!-- Optional: Add a streak card as a backup -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rujit33&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
 
