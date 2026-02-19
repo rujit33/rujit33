@@ -70,13 +70,11 @@
 
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rujit33&show_icons=true&theme=radical&count_private=true&hide_border=true&v=2" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rujit33&layout=compact&theme=radical&hide_border=true&v=2" alt="Top Languages" />
-</p>
+  <!-- GitHub basic stats card -->
+  <img height="180em" src="https://kasroudra-stats-card.onrender.com/user?user=rujit33&layout=compact&theme=buefy" alt="GitHub Stats Card" />
 
-<!-- Optional: Add a streak card as a backup -->
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rujit33&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <!-- GitHub languages card -->
+  <img height="180em" src="https://kasroudra-stats-card.onrender.com/lang?user=rujit33&layout=compact&type=donut&theme=gruvbox_light" alt="Top Languages Card" />
 </p>
 
 
