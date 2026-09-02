@@ -1,7 +1,7 @@
 <!-- README.md (copy-paste) -->
 
 <h1 align="center">👋 Hello, I'm Rujit Shrestha</h1>
-<h3 align="center">Full-Stack Developer | Mobile App Developer | AI/ML Enthusiast</h3>
+<h3 align="center">Full-Stack Developer | AI/ML </h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/rujit-shrestha-4427bb35a/" target="_blank" rel="noopener">
